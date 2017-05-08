@@ -49,7 +49,7 @@ b)	决定是否批准申请
 + 环境：
     1. tomcat 8.0.37
     2. JDK 8
-+ 使用：导入eclipse --》 设置JRE，JDK，tomcat路径后就可以启动了
++ 使用：将space_sm.sql导入数据库 --》导入eclipse --》 设置JRE，JDK，tomcat路径 --》 修改db.properties中的数据库信息后 就可以启动了
     
 ## 主要功能及实现思路
 
