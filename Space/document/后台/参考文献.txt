@@ -1,0 +1,5 @@
+1.http://www.bootcss.com/p/font-awesome/		图标字体
+2.http://www.bootcss.com/						bootstrap框架
+3.https://github.com/JeremyFagis/dropify		上传图片插件
+4.http://jquery.com/							jquery框架
+5.http://www.daimajiayuan.com/preview/18335.html	布局骨架参考模板
